@@ -97,7 +97,7 @@ There are a number of cases where significant collections of very
 personal data have been hacked. In the United States, Equifax lost the
 financial information of 143 million people[^2], while the Office of
 Personnel Management lost private information for 21.5 million
-people[^3]. And biometric data has already been endangered: AADHAR has
+people[^3]. And biometric data has already been endangered: Aadhaar has
 suffered various breaches[^4].
 
 As new data technologies and architectures have emerged, many have
@@ -172,12 +172,12 @@ access even though the address is public.
 
 ### Principle 4: Biometric Data Should Be Under A User’s Control
 
-When a user decides where to place his actual biometric data, he should
-ensure that it stays under his control: he should be the authority who
-determines who can access his data, which data they can access, and
-which capabilities they have. He should also have the authority and
-ability to move his data as he sees fit. In other words, his
-relationship with his biometric data should adopt many of the rules of
+When a user decides where to place her actual biometric data, she should
+ensure that it stays under her control: she should be the authority who
+determines who can access her data, which data they can access, and
+which capabilities they have. She should also have the authority and
+ability to move her data as he sees fit. In other words, her
+relationship with his biometric data should adopt many of the principles of
 self-sovereignty.
 
 This requirement does not enforce any specific physical implementation.
@@ -203,7 +203,7 @@ remains accessible in the future.
 The largest challenge with user control of biometric data is that it may
 not be protected legally. This is a topic that will need to be addressed
 legally with new data sovereignty rules: data needs to be protected by
-property laws, to ensure that a user’s ability to control access and
+property laws (data isn't property...so we need a better anchor for this - let me ask scott david)), to ensure that a user’s ability to control access and
 capabilities for his data remains intact.
 
 With biometric storage (at last) stored in a way that maximizes
@@ -289,6 +289,9 @@ Systematic approaches can be actively aware of these challenges and
 compensate for them.
 
 ### Conclusions
+
+The principles of Self-Sovereign Biometrics lay out how biometrics can be used within decentralized identity systems that empower the indivdual. They provide a pathway for indivduals to authenticate their physical selves via the biometrics they themselves have stored in their own data store/agent. This biometric may infact be signed by some authority that has made a binding between their identity on paper and their body but it need not be stored by this insitution. 
+
 
 [//]: # (roadmap is needed - getting from here to there)
 [//]: # (train has left the station - Aadhaar, etc.)
